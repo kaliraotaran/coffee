@@ -1,16 +1,13 @@
 # coffee
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img width="334" alt="Screenshot 2023-08-12 at 12 33 31 AM" src="https://github.com/kaliraotaran/coffee/assets/81376236/acabd5e2-848b-4bfe-90a9-bae12c79838e">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+<img width="334" alt="Screenshot 2023-08-12 at 12 33 39 AM" src="https://github.com/kaliraotaran/coffee/assets/81376236/b8c51d14-ae18-45db-b988-f5b8f3b2388c">
+
